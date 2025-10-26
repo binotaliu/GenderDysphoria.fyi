@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 lang: "tw"
-title: "性別不安聖經 - The Gender Dysphoria Bible"
+title: "性別不安聖經 – The Gender Dysphoria Bible"
 linkTitle: 簡介
 description: "探討性別不安的多種表現方式以及成為跨性別者的意義。"
 preBody: '_disclaimer'
@@ -18,7 +18,7 @@ siblings:
   '~/img'
   images.titlecard
   srcSizes="(max-width: 800px) 100vw, (max-width: 1000px) 70vw, 767px"
-  alt="性別不安聖經 - The Gender Dysphoria Bible"
+  alt="性別不安聖經 – The Gender Dysphoria Bible"
   style="margin-bottom: 1em;"
   imgStyle="width: 100%"
 }}
@@ -54,7 +54,7 @@ siblings:
 
 13. [冒名頂替症候群](/tw/impostor-syndrome)
 
-14. [我是跨嗎?](/tw/am-i-trans)
+14. [我是跨嗎？](/tw/am-i-trans)
 
 15. [臨床診斷](/tw/diagnoses)
 
