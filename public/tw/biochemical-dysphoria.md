@@ -222,7 +222,7 @@ Zinnia Jones [對失自我感的描述如下](https://web.archive.org/web/201904
 
 <!-- One very potent demonstration of this is the tragic case of [David Reimer](https://en.wikipedia.org/wiki/David_Reimer). At seven months of age David and his twin brother were given circumcisions to treat a bad case of phimosis (a skin condition on the foreskin). David's went horribly wrong, and the penis was destroyed. The decision was made to perform vaginoplasty and raise him as a girl, including estrogen therapy at pubescence. By the age of 13, he was deep into suicidal depression and suffering greatly, as no amount of coaching and encouraging can make a boy enjoy being a girl. When his parents informed him of what had happened, he returned to a male presentation, switched to testosterone therapy, and over the course of his teen years had multiple operations in order to transition back to male. -->
 
-一個非常有力的例子是 [大衛·利馬(David Reimer)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A1%9B%C2%B7%E5%88%A9%E9%A6%AC) 的悲慘案例。大衛和他的雙胞胎兄弟在七個月大的時候接受了包皮環切術來治療嚴重的包莖（包皮上的一種皮膚病）。大衛的手術嚴重出了差錯，陰莖被毀掉了。於是決定進行陰道成形術，並把他當作女孩撫養，包括在青春期接受雌激素治療。到了 13 歲，他陷入了深深的自殺性抑鬱，並且非常痛苦，因為再多的指導和鼓勵都不能讓一個男孩享受作為女孩的生活。當他的父母告訴他發生的事情後，他恢復了男性的裝扮，改用睪固酮治療，並在青少年時期接受了多次手術，以便變回男性。
+一個非常有力的例子是 [大衛・利馬(David Reimer)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A1%9B%C2%B7%E5%88%A9%E9%A6%AC) 的悲慘案例。大衛和他的雙胞胎兄弟在七個月大的時候接受了包皮環切術來治療嚴重的包莖（包皮上的一種皮膚病）。大衛的手術嚴重出了差錯，陰莖被毀掉了。於是決定進行陰道成形術，並把他當作女孩撫養，包括在青春期接受雌激素治療。到了 13 歲，他陷入了深深的自殺性抑鬱，並且非常痛苦，因為再多的指導和鼓勵都不能讓一個男孩享受作為女孩的生活。當他的父母告訴他發生的事情後，他恢復了男性的裝扮，改用睪固酮治療，並在青少年時期接受了多次手術，以便變回男性。
 
 <!-- People know when they're living the wrong gender. -->
 
@@ -230,7 +230,7 @@ Zinnia Jones [對失自我感的描述如下](https://web.archive.org/web/201904
 
 <!-- Psychologist John Money oversaw David's case and was largely responsible for the decisions that were made in David's upbringing. Money, seeking to make a name for himself, massively misreported on David's case, calling it a complete success in his reports. The result of this echoes to this day, as Money's reports were used as an example of why performing genital corrective surgeries on intersex infants was an appropriate course of action. Fifty years later there are still doctors who believe that you can just change a child's genitals and raise them as that gender and it will stick. -->
 
-心理學家約翰·曼尼(John Money) 負責大衛的案例，並且對大衛成長過程中所做的決定負有主要責任。曼尼為了揚名立萬，在他的報告中嚴重歪曲了大衛的案例，稱其完全成功。這一結果至今仍有影響，因為曼尼的報告被用作一個例子，說明為什麼對雙性嬰兒進行生殖器矯正手術是適當的做法。五十年後，仍然有醫生認為，你可以改變一個孩子的生殖器，並將他們按照該性別撫養長大，而且這種做法會有效。
+心理學家約翰・曼尼(John Money) 負責大衛的案例，並且對大衛成長過程中所做的決定負有主要責任。曼尼為了揚名立萬，在他的報告中嚴重歪曲了大衛的案例，稱其完全成功。這一結果至今仍有影響，因為曼尼的報告被用作一個例子，說明為什麼對雙性嬰兒進行生殖器矯正手術是適當的做法。五十年後，仍然有醫生認為，你可以改變一個孩子的生殖器，並將他們按照該性別撫養長大，而且這種做法會有效。
 
 <!-- This is the tragedy of the [intersex](https://en.wikipedia.org/wiki/Intersex) community. Roughly one in every 60 births results in some kind of intersex condition (though not all of these are related to genitalia). Often times the "corrective" procedures used on intersex children results in a loss of function and/or sensation. Far too frequently, doctors would opt towards forced female assignment because it was easier to construct a vulva than a penis. -->
 

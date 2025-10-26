@@ -1,7 +1,7 @@
 ---
 date: "2020-01-26T20:41:55.827Z"
 lang: "tw"
-title: "性別不安的表現: 欣快感"
+title: "性別不安的表現：欣快感"
 linkTitle: "性別欣快"
 description: "有陰影的地方就一定有光。"
 preBody: '_disclaimer'
@@ -36,19 +36,19 @@ tweets:
 
 <!-- Imagine a person who was born in a cave, who spent their entire life living underground, with their only source of illumination being candles and oil lamps. Imagine they've never been above ground; they don't even know the surface exists. Then, one day, a cave-in happens in a side tunnel, and reveals an opening to the surface. Sunlight pours into the opening, and at first it is blinding and the person runs away in fear. Later, they return to the opening, and, as the person's eyes adjust, they look out through the hole and see a bright and brilliant world full of colors they didn't even know existed. -->
 
-想像一個人生來就在洞穴中的人，一生都在地下生活，唯一的照明來源是蠟燭和油燈。想像他們從未在地面上生活過，他們甚至不知道地面的存在。然後，有一天，一側隧道發生了坍塌，露出了通往地面的開口。陽光照進開口，起初它是耀眼的，那人嚇得逃跑了。後來，他們回到開口處，隨著眼睛的適應，他們透過洞口看到一個明亮而燦爛的世界，充滿了他們甚至不知道存在過的顏色。
+想像有個在洞穴裡出生的人，一輩子都在地底下生活，而他唯一的光源是蠟燭跟油燈。想像這個人從來沒到過地面上，他甚至不知道有地面這種東西。接著某天，隧道某處發生了坍塌，露出了通往地面的路口。陽光通過洞口灑入。剛開始，光線很刺眼，讓這個人嚇到逃跑了。後來，這個人回到洞口，隨著眼睛逐漸適應，他從洞口往外看，看到了明亮璀璨的世界，充滿了他甚至不知道存在的色彩。
 
 <!-- That world is scary, huge, and full of unknowns, so they crawl back into the cave for safety, but that hole is still there, and they see the light every time they pass it. Gradually, they peek out more and more frequently, and further and further from the opening. They start to want that light; they find reasons to visit it more often. -->
 
-那個世界很可怕、很大、充滿未知，所以他們爬回洞裡求安全，但那個洞還在，每次經過時他們都能看到光。漸漸地，他們更頻繁地窺視，並且離開口越來越遠。他們開始想要那道光；他們找到更多理由去拜訪它。
+外面的世界很可怕、很大、充滿未知。所以他爬回洞穴裡求安全，但洞口還是在那裡。每次經過洞口時，都會看到那個光。漸漸地，他越來越常去偷看洞口外面，每次也出去得越來越遠。他開始渴望那道光。他想找更多理由去到洞口外面。
 
 <!-- Eventually they realize that they don't want to go back into the hole any more. They have to go back, because that is where their family and friends are, but this place is so much better, and they want to stay here. Going back into the hole feels wrong; it starts to hurt to be in the dark so much. -->
 
-最終，他們意識到自己不想再回到洞裡了。他們必須回去，因為那是他們的家人和朋友所在的地方，但這個地方好多了，他們想留下來。回到洞裡感覺不對；在黑暗中待太久開始感到痛苦。
+最終，他意識到自己不想再回到洞裡了。他必須回去，因為那是他的家人和朋友所在的地方，但這個地方好多了，他想留下來。回到洞裡感覺不對 —— 在黑暗中待太久開始感到痛苦。
 
 <!-- This is what gender euphoria is like: brief flashes of a light that may be too bright to handle at first, too confusing to understand, but as time goes on you become more accustomed to them and you realize that this is where you belong, and the darkness becomes the dysphoria. -->
 
-這就是性別欣快的樣子：最初可能太刺眼而無法處理、太混亂而無法理解的光的短暫閃爍，但隨著時間的推移，你變得越來越習慣它們，你意識到這就是你屬於的地方，而黑暗變成了焦慮。
+這就是性別欣快的樣子：短暫閃過的光。這些光最初可能太刺眼而無法處理、太混亂而無法理解。但隨著時間的推移，就變得越來越習慣，並能意識到這就是你屬於的地方，而暗處就變成了不安。
 
 {!{ <div class="gutter">{{import '~/tweet' ids=[
   '1215716433210105856'
@@ -56,7 +56,7 @@ tweets:
 
 <!-- Many trans people have no idea how much pain they are in until they find small bits of relief. Cosplay, stage acting, drag, role playing games, video games; small little forays into a different gender than they have lived as. They find that it feels just a little bit more comfortable. They'll make up excuses for why ("If I'm gonna be looking at this character's ass, it might as well be a girl's ass."), they'll try to convince themselves it's all just for fun, or an artistic expression. They might tell themselves that the bits of joy they feel at hearing a different pronoun are just novelty. But soon they find themselves looking for reasons to get that more often. More and more frequently they're role playing characters of a different sex, building more costumes, buying more clothes, performing more often. You find yourself wanting to do that all the time, because it just feels better than your real life, and being "you" starts to hurt. Eventually, the old you becomes the costume. -->
 
-許多跨性別者在找到微小的解脫之前，都不知道自己有多痛苦。角色扮演、舞台表演、變裝、角色扮演遊戲、電子遊戲；對他們所生活的性別之外的不同性別的小小嘗試。他們發現這感覺舒服了一點點。他們會為此編造藉口（「如果我要看這個角色的屁股，那還不如是女生的屁股。」），他們會試圖說服自己這一切只是為了好玩，或者是一種藝術表達。他們可能會告訴自己，聽到不同的代詞而感到的一點點喜悅只是新鮮感。但很快他們就會發現自己尋找更多的理由來獲得這種感覺。他們越來越頻繁地扮演不同性別的角色，製作更多的服裝，購買更多的衣服，更頻繁地表演。你會發現自己一直想這樣做，因為這比現實生活感覺更好，「你」開始感到痛苦。最終，舊的你變成了服裝。
+許多跨性別者在找到微小的解脫之前，都不知道自己有多痛苦。他們會通過角色扮演、舞台表演、變裝、角色扮演遊戲、電子遊戲等，來嘗試與自己一直以來生活的性別所不同的另一個性別。他們發現這感覺比較舒服了一點點。他們會為此編造藉口（比如「如果我要一直看著這個角色的屁股，那不如看女生的屁股。」），他們會試圖說服自己這一切只是為了好玩，或者是一種藝術表達。他們可能會告訴自己，聽到不同的人稱代名詞而感到的一點點喜悅只是因為新鮮感。但很快地，他們就會開始找更多理由來獲得這種感覺。他們越來越頻繁地扮演不同性別的角色，製作更多的服裝，購買更多的衣服，更頻繁地表演。你會發現自己一直想這樣做，因為這比現實生活感覺更好，「你」開始感到痛苦。最終，舊的你變成了服裝。
 
 <!-- This is the most fundamental reason why we as a community say "you do not need dysphoria to be trans", because black ink on a black canvas isn't visible without close examination and a lot of light. -->
 
