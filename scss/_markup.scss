@@ -222,3 +222,11 @@
     p { margin: 0; }
   }
 }
+
+/* CJK characters does not use italic emphasis */
+[lang^="zh"] .markup {
+  em {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif
+  }
+}
