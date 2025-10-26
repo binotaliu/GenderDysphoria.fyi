@@ -52,7 +52,7 @@ zh-tw: -->
 > Margaret Mead moves from the specific delineation to the more general comparison of male and female in several communities, finally coming to an analysis of sex-patterns in our own midst and for our own time.
 
 zh-tw: -->
-> 這本書超越了其基本假設。告訴讀者**什麼是「性」，什麼是「性別」**，什麼是男性化的角色，什麼是女性化的角色，什麼是男女的生殖功能。
+> 此外，這本書超越了它的前提；因為它不僅告訴讀者**什麼是「性」，什麼是「性別」**，什麼是男性化的角色，什麼是女性化的角色，什麼是男女的生殖功能。
 >
 > 瑪格麗特·米德從特定的描繪移向更一般的比較，比較了幾個社群中的男性和女性，最後分析了我們自己時代的性模式。
 
